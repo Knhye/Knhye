@@ -6,6 +6,6 @@
   
 ## Contact me <br/><br/>
 
-[Instagram] : https://www.instagram.com/3n1hye_/ <br/>
-[Gmail] : knahye311@gmail.com <br/>
-[Tistory] : https://knhye.tistory.com/ <br/>
+**[Instagram]** : https://www.instagram.com/3n1hye_/ <br/>
+**[Gmail]** : knahye311@gmail.com <br/>
+**[Tistory]** : https://knhye.tistory.com/ <br/>
