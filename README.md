@@ -1,6 +1,6 @@
 <!-- Header Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=DFFF00&center=true&vCenter=true&width=600&height=50&lines=Spring+Boot+%7C+NestJS+Dev;Java+%7C+TypeScript+%7C+SQL;AWS+Cloud+%7C+Backend+Arch;Always+learning...+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=FFA6C9&center=true&vCenter=true&width=600&height=50&lines=Spring+Boot+%7C+NestJS+Dev;Java+%7C+TypeScript+%7C+SQL;AWS+Cloud+%7C+Backend+Arch;Always+learning...+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 <br/>
 
@@ -61,6 +61,6 @@ blog     : "https://knhye.tistory.com"
 
 <!-- footer -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=99999&color=FFC0CB&center=true&vCenter=true&width=750&height=50&lines=Feel+free+to+contact+me+anytime+%3A)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=99999&color=FFA6C9&center=true&vCenter=true&width=750&height=50&lines=Feel+free+to+contact+me+anytime+%3A)" alt="Typing SVG" />
 </div>
 <br/>
