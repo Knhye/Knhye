@@ -11,8 +11,8 @@
 ```yaml
 name     : "3n1hye"
 role     : "Back-end Developer"
-stacks   : ["Spring Boot", "NestJS", "Java", "TypeScript"]
-databases: ["MySQL", "PostgreSQL"]
+stacks   : ["Spring Boot", "Java", "NestJS", "TypeScript", "FastAPI", "Python"]
+databases: ["MySQL", "PostgreSQL", "MongoDB"]
 cloud    : ["AWS"]
 interests: ["Scalable Architecture", "API Design", "Cloud Infrastructure"]
 blog     : "https://knhye.tistory.com"
@@ -28,12 +28,15 @@ blog     : "https://knhye.tistory.com"
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </div>
 
 ### 🗄️ Database
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 ### ☁️ Cloud & Infra
