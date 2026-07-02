@@ -9,13 +9,13 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name     : "3n1hye"
-role     : "Back-end Developer"
-stacks   : ["Spring Boot", "Java", "NestJS", "TypeScript", "FastAPI", "Python"]
-databases: ["MySQL", "PostgreSQL", "MongoDB"]
-cloud    : ["AWS"]
-interests: ["Scalable Architecture", "API Design", "Cloud Infrastructure"]
-blog     : "https://knhye.tistory.com"
+NAME     : "3n1hye"
+ROLE     : "Back-end Developer"
+MAIN_STACKS   : ["Spring Boot", "Java", "NestJS", "TypeScript"]
+DATABASES: ["MySQL", "PostgreSQL"]
+CLOUD    : ["AWS"]
+INTERESTS: ["Scalable Architecture", "API Design", "Cloud Infrastructure"]
+BLOG     : "https://knhye.tistory.com"
 ```
 
 ---
