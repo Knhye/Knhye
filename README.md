@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 NAME     : "3n1hye"
@@ -20,9 +20,9 @@ BLOG     : "https://knhye.tistory.com"
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -32,21 +32,21 @@ BLOG     : "https://knhye.tistory.com"
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </div>
 
-### 🗄️ Database
+### Database
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-### ☁️ Cloud & Infra
+### Cloud & Infra
 <div align="left">
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/k3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 </div>
 
-### 🔄 CI/CD
+### CI/CD
 <div align="left">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
@@ -54,7 +54,7 @@ BLOG     : "https://knhye.tistory.com"
 
 ---
 
-## 📬 Contact
+## Contact
 
 <div align="left">
 
