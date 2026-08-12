@@ -9,7 +9,7 @@
 ## About Me
 
 ```yaml
-NAME     : "3n1hye"
+NAME     : "KIM NAHYE"
 ROLE     : "Back-end Developer"
 MAIN_STACKS   : ["Spring Boot", "Java", "NestJS", "TypeScript"]
 DATABASES: ["MySQL", "PostgreSQL"]
@@ -56,13 +56,11 @@ BLOG     : "https://knhye.tistory.com"
 
 ## Contact
 
-<div align="left">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3n1hye_/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/whitedambi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:knahye311@gmail.com)
-
-</div>
+```yaml
+INSTAGRAM     : "3n1hye_"
+GMAIL     : "knahye311@gmail.com"
+DISCORD   : "whitedambi"
+```
 
 ---
 
